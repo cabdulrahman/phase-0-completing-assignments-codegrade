@@ -73,7 +73,7 @@ In the **Owner** dropdown, select your GitHub username, then click the **Create
 fork** button.
 
 Forking is a process which creates an exact copy of a collection of code and
-files. Once you've created a fork on your own GitHub account, you will be able
+files. Once you've created a fork on your own GitHub account, you will be able gi
 to edit the files in the repository and write your own code solution without
 interfering with the original copy.
 
